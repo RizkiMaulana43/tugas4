@@ -1,0 +1,127 @@
+body{
+	background:url("asset/Images/front-banner.png");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 100vh;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+
+}
+h1{
+	font-size: 50px;
+}
+a{
+	text-decoration: none;
+	color: #6a6f88;
+}
+.fit{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+
+}
+.header{
+	margin: 40px 0 0 0;
+
+
+}
+.logo img{
+	width: 120px; 
+	height: auto;
+	float: left;
+}
+.navigasi {
+	padding: 10px 0 0 0;
+	width: 850px;
+	height: auto;
+	border-left: 1px #0000 solid;
+}
+.info img{
+	width: 20px;
+	height: auto;
+	float: left;
+	padding: 0 10px; 
+}
+.info2 img{
+	width: 20px;
+	height: auto;
+	padding: 0 0 0 350px; 
+}
+.info2 {
+	float: right;
+}
+.info {
+	float: left;
+	padding: 0;
+}
+.info p{
+	float: left;
+}
+.nav-atas{
+	float: left;
+	padding: 0 0 0 30px;
+	border-bottom: 1px solid #0000;
+}
+.nav-bawah{
+	width: 670px;
+	float: left;
+	padding: 0 0 0 30px;
+	margin: 30px 0 0 15px;
+}
+.nav-isi ul li{
+	float: left;
+	padding: 10px 15px 10px 0;
+	text-align: left;
+}
+.nav-isi2 ul li{
+	float: right;
+	padding: 10px 15px 10px 0;
+	text-align: left;
+}
+.clear {
+	content: "";
+	display: block;
+	clear: both;
+}
+button{
+	margin: 30px 20px 0 0;
+	padding: 10px 30px;
+
+
+}
+.but-1{
+	background: #00b76d;
+	border: none;
+	border-radius: 5px;
+}
+.but-2{
+	background: none;
+	border-radius: 5px;
+	border: 1px solid:#0000;
+	}
+.isi{
+	margin: 100px 0 0 0;
+}
+.title{
+	width: 600px;
+
+}
+.nav-isi2 a{
+	color: #192043;
+
+}
+.stampel{
+	margin: 50px 0 0 0;
+
+}
+.stampel img{
+    width: 80px;
+    height: auto;
+    margin: 0 20px 0 0;
+  }
